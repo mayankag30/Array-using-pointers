@@ -1,1 +1,0 @@
-# Array-using-pointers
